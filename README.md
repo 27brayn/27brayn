@@ -1,18 +1,23 @@
-`Desenvolvedor Full Stack` · `TypeScript & JavaScript` · `Aprendendo C#`
+`Full Stack Developer` · `TypeScript & JavaScript` · `Learning C#`
 
-Apaixonado por programação, com foco em TypeScript e JavaScript. Faço tanto o front-end quanto o back-end.
+Passionate about programming, with a strong focus on TypeScript and JavaScript. I build both front-end and back-end.
 
-- Front-end, Back-end, APIs, Banco de Dados.
-- TypeScript, JavaScript, Node.js, MongoDB, C# (aprendendo).
-- Português nativo.
+- Front-end, Back-end, APIs, Databases.
+- TypeScript, JavaScript, C# (learning), Node.js, MongoDB.
+- Native Portuguese.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+## 🛠️ Tech Stack
 
-Contato: 27braynz@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,nodejs,mongodb&theme=dark" alt="tech stack" />
+</p>
 
-# Minha Comunidade
-[![Discord](https://img.shields.io/badge/Entrar%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZCRRQWnWB)
+📫 Reach me at: 27braynz@gmail.com
+
+## 💬 Join my Discord community
+
+<a href="https://discord.gg/ZCRRQWnWB">
+  <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" />
+</a>
+
+Come hang out, share projects, ask questions and learn with other developers!
